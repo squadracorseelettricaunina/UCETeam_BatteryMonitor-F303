@@ -1,5 +1,5 @@
 # UCETeam_BatteryMonitor-F303
-Porting su F303K8 del BatteryMonitor creato originariamente su F249ZI.
+Porting su F303K8 del BatteryMonitor creato originariamente per la scheda F429ZI.
 
 Questo è un progetto per catturare e trasmettere le temperature di 7 sensori di temperatura dal Pacco Batteria Low Voltage.
 
